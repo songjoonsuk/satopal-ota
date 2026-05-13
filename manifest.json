@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "target": "0.0.3",
-  "deviceId": "abcde",
+  "target": "0.0.2",
+  "deviceId": "관수-260409",
   "url": "https://github.com/songjoonsuk/satopal-ota/releases/download/irr-v0.0.3/firmware.bin"
 }
