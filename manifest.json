@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "target": "0.0.2",
   "deviceId": "개폐-260514",
   "url": "https://github.com/songjoonsuk/satopal-ota/releases/download/vent/firmware.bin"
